@@ -20,4 +20,4 @@ The data is divided in 3 groups to study the change of pice and VaR movement
 
 simulation result from variance-covariance method and Monte Carlo simulation method is close while that from historical method is lower, leading to a lower VaR.
 
-![](price with comparison.png)
+![](./price with comparison.png)
